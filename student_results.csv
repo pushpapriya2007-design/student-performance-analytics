@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Maths,Physics,English,Data_Structures,Attendance,Total,Average,Grade,Result
+S101,Arun Kumar,CSE,88,92,79,85,90,94,434,86.8,A+,Pass
+S102,Priya Dharshini,CSE,95,89,91,93,96,97,464,92.8,0,Pass
+S103,Karthik Raja,ECE,67,58,62,70,55,82,312,62.4,C,Pass
+S104,Meena Lakshmi,IT,78,81,74,88,80,90,401,80.2,A+,Pass
+S105,Vignesh Babu,MECH,45,38,52,60,41,68,236,47.2,F,Fail
+S106,Divya Bharathi,CSE,82,76,85,79,84,88,406,81.2,A+,Pass
+S107,Surya Prakash,EEE,59,63,57,66,61,79,306,61.2,C,Pass
+S108,Nandhini Devi,IT,91,94,88,90,92,96,455,91.0,0,Pass
+S109,Ramesh Kannan,MECH,35,42,48,55,38,65,218,43.6,F,Fail
+S110,Harini Sri,ECE,73,70,68,82,75,85,368,73.6,B,Pass
+S111,Gokul Nath,CSE,64,72,60,68,70,81,334,66.8,C,Pass
+S112,Sangeetha Rani,EEE,86,84,80,91,83,92,424,84.8,A+,Pass
+S113,Manoj Kumar,IT,52,49,55,61,47,74,264,52.8,D,Fail
+S114,Deepika Selvam,ECE,79,85,77,84,81,89,406,81.2,A+,Pass
+S115,Aravind Raj,MECH,68,61,66,72,64,83,331,66.2,C,Pass
+S116,Kavya Shree,CSE,97,95,93,96,98,98,479,95.8,0,Pass
+S117,Santhosh Kumar,EEE,41,36,44,58,39,70,218,43.6,F,Fail
+S118,Lavanya Murugan,IT,84,80,86,87,82,91,419,83.8,A+,Pass
+S119,Bharath Vel,ECE,70,66,72,75,68,86,351,70.2,B,Pass
+S120,Janani Priya,CSE,89,87,84,92,88,93,440,88.0,A+,Pass
